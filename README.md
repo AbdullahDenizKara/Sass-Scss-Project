@@ -8,4 +8,4 @@ HTML-SASS-SCSS kullanıldı.
 
 <h2>Ekran Görüntüsü</h2>
 
-![](Screen Recording 2024-01-11 at 08.49.45.86 PM.gif)
+![](ekran.gif)
